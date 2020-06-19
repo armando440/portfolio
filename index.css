@@ -1,0 +1,10 @@
+body{ 
+    background-image: url("https://img.pngio.com/striped-dark-background-1780png-dustys-portfolio-cool-dark-background-png-1680_1050.png");
+}
+h1{
+    color: black; background-color: red;
+    text-align: center;  border-radius: 20px;
+}
+p{ color:white;}
+section{ color:white;}
+h3{ color:white;}
